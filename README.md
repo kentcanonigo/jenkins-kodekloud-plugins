@@ -1,4 +1,4 @@
-## For KodeKloud Jenkins Level 4
+## For KodeKloud Jenkins Level 4 (Not tested on 3)
 
 ### Run this on the jumphost:
 
